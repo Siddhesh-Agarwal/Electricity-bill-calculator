@@ -1,2 +1,1 @@
-wheel==0.37.1
 streamlit==1.7.0
